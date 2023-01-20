@@ -1,12 +1,10 @@
 ## Setup Instructions
-
-
-
-
+To run on local computer: 
+`git clone https://github.com/eekinw/Portfolio.git`
 
 
 ## Production Site
-
+[https://eekinw.github.io/Portfolio/]
 
 
 
@@ -19,6 +17,3 @@
 - [x] Flowbite
 
 
-
-
-## To-Do-List
