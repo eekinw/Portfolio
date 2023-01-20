@@ -1,0 +1,19 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+html {
+    scroll-behavior: smooth !important;
+}
+
+.word-wrap {
+    word-wrap: break-word;
+ }
+
+.text-wrap {
+    text-wrap: none;
+ }
+ 
+ .no-click {
+    pointer-events: none;
+ }
